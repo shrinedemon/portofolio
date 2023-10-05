@@ -1,0 +1,53 @@
+h1 {
+    color: red;
+}
+
+h1 {
+    font-style: oblique;
+}
+p{ font-style: italic;
+}
+h2{
+    font-style: italic;
+}
+h2{
+    color:blue;
+}
+p{
+    font-style:italic;
+
+}
+table{
+    border-color: rgb(74, 0, 97);
+}
+body{
+    background-color: rgb(42, 165, 83);
+}
+p{
+    color: aqua;
+}
+p1{
+    color: aqua;
+}
+td{
+    color: rgb(255, 255, 255);
+    transition: width 2s;
+}
+li{
+    color: aliceblue;
+}
+a{
+    color: azure;
+}
+hover{
+    color: red;
+}
+.container .items{
+    font-size: 2rem;
+    font-weight: bold;
+    width: 250px;
+    height: 100px;
+    background-color: aqua;
+   
+}
+
