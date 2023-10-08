@@ -54,12 +54,13 @@ hover{
     opacity: 1;
 }
 .container::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
+    content: "KLIK DISINI YA!!!";
+  
+    position: inherit;
+    top: 10;
+    left: 10;
     width: 100%;
-    height: 150%;
+    height: 100%;
     background-color: #e74c3c;
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
