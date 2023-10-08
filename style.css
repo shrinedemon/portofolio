@@ -71,4 +71,9 @@ hover{
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
 }
+.items:hover{
+        background-color: #e74c3c;
+        font-size: 50px;
+        transition-duration: 2s;   
+}
 
