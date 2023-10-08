@@ -21,7 +21,8 @@ table{
     border-color: rgb(74, 0, 97);
 }
 body{
-    
+    display: flex;
+    flex-direction: column;
     background-color: rgb(42, 165, 83);
 }
 p{
