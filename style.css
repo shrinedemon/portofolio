@@ -21,6 +21,7 @@ table{
     border-color: rgb(74, 0, 97);
 }
 body{
+    
     background-color: rgb(42, 165, 83);
 }
 p{
@@ -45,9 +46,11 @@ hover{
 .container .items{
     font-size: 2rem;
     font-weight: bold;
-    width: 250px;
+    width: 350px;
     height: 100px;
     background-color: aqua;
+    margin-top: 1%;
+    margin-bottom: 1%;
    
 }
 .container:hover::before {
@@ -61,7 +64,10 @@ hover{
     left: 10;
     width: 100%;
     height: 100%;
+    padding: 5px;|
+    margin: 10px;
     background-color: #e74c3c;
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
 }
+
